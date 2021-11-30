@@ -1,3 +1,3 @@
 The official build of neddisusi
 ----------------------------------------
-ranepo.github.io/neddisusi
+https://ranepo.github.io/neddisusi/
