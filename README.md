@@ -1,2 +1,3 @@
-# neddisusi
-Da Websit
+The official build of neddisusi
+----------------------------------------
+ranepo.github.io/neddisusi
